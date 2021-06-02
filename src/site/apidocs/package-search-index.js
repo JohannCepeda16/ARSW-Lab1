@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.escuelaing.arsw"},{"l":"edu.escuelaing.arsw.loccount"},{"l":"edu.escuelaing.arsw.model"}];updateSearchResults();
