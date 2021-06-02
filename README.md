@@ -54,7 +54,7 @@ Si queremos ejecutar las pruebas de nuestro proyecto debemos ubicarnos en la rai
 ```
 mvn test
 ```
-![test]("./resources/test.PNG")
+![test](https://github.com/JohannCepeda16/ARSW-Lab1/blob/main/resources/test.PNG)
 
 
 ## Programa hecho con
@@ -72,10 +72,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.tx
 
 ## Diseño
 
-Para mas información del diseño del proyecto puede ver el siguiente [documento](https://github.com/johanncepeda16/ARSW-Lab1/resources/LOC%20Counting.pdf)
+Para mas información del diseño del proyecto puede ver el siguiente [documento](https://github.com/JohannCepeda16/ARSW-Lab1/blob/main/resources/LOC%20Counting.pdf)
 
 ## Report de pruebas
-Para mas informacion de las pruebas del proyecto, siga el siguente [enlace](https://github.com/johanncepeda16/ARSW-Lab1/resources/TestReportpdf.pdf)
+Para mas informacion de las pruebas del proyecto, siga el siguente [enlace](https://github.com/JohannCepeda16/ARSW-Lab1/blob/main/resources/TestReportpdf.pdf)
 
 ## JavaDoc
 
